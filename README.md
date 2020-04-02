@@ -1,14 +1,14 @@
-# GitHub Collaboration Session
+# GitHub Collaboration
 
 In this session, we will demonstrate how to work with Github.
 
-## Workflow
+## Workflow Chart
 
 You can view the workflow in `github_collab.pdf` file.
 
 ## Project Overview
 
-This project is supposed to create a simple static web page.
+This project is supposed to create a simple static web page. This project is going killer app for hotel business.
 
 ## About Us
 
