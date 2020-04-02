@@ -2,6 +2,10 @@
 
 In this session, we will demonstrate how to work with Github.
 
+## Youtube Video:
+
+- https://youtu.be/mPB9PPibnVg
+
 ## Workflow Chart
 
 You can view the workflow in `github_collab.pdf` file.
